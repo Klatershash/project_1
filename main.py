@@ -51,6 +51,6 @@ while True:
         else:
             print('Error login')
     print(users_new)
-
+    print(users_new)
 
 
