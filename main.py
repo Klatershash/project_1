@@ -1,5 +1,4 @@
-import random
-import User
+import random, User
 
 """a = []
 for i in range(1001):
