@@ -50,6 +50,7 @@ while True:
                 print('Error pin')
         else:
             print('Error login')
+    print(users_new)
 
 
 
