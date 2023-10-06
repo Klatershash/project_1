@@ -1,0 +1,1 @@
+login:admin,pin:1234,summa:1000;login:admin2,pin:1234,summa:2000;login:admin3,pin:1234,summa:3000
